@@ -1,5 +1,4 @@
-# usd-oracle
-USD oracle research
+# USD Oracle
 
 ## Proposal
 
